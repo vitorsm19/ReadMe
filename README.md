@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a>www.linkedin.com/in/vitormesquita19/</a>
+  <a href="www.linkedin.com/in/vitormesquita19/">linkedin.com/in/vitormesquita19/</a>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
