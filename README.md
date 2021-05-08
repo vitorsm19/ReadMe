@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-**vitormesquita190902@gmail.com**
+  <a>www.linkedin.com/in/vitormesquita19/</a>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
