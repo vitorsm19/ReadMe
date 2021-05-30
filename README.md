@@ -5,8 +5,6 @@
 
 - 📫 Contato: **vitormesquita190902@gmail.com**
 
-<h1>RIP MC KEVIN - ETERNO</h1
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vitormesquita19/">linkedin.com/in/vitormesquita19/</a>
