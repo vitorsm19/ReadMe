@@ -1,16 +1,16 @@
-<h1 align="center">Olá, meu nome é Vitor!</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h1 align="center">Hello, I'm Vitor!</h1>
+<h3 align="center">Frontend Developer</h3>
 
-- 🌱 Estudando: **React**
+- 🌱 Studying: **React**
 
-- 📫 Contato: **vitormesquita190902@gmail.com**
+- 📫 Contact: **vitormesquita190902@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vitormesquita19/">linkedin.com/in/vitormesquita19/</a>
   </p>
 
-<h3 align="left">Linguagens, ferramentas e tecnologias:</h3>
+<h3 align="left">Languages, tools and technologies:</h3>
 
 <p align="left">
     
